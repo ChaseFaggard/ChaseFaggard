@@ -1,16 +1,17 @@
-### Hi there 👋
+## 🚀 About Me
+I'm a software developer with a focus in front end development. I have a passion for web design and styling, networking & web security.
 
-<!--
-**ChaseFaggard/ChaseFaggard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🛠 Skills
+Javascript, Typescript, HTML5, CSS3, SCSS, Java, C++, PHP, MySQL, MongoDB, Websockets & Socket.IO, Angular, Next.JS, Heroku, Vercel, Git, VSCode
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🥇 License & Certifications
+
+[Certified Angular Developer](https://www.credly.com/badges/6b39bea6-62db-4743-ba15-7d6fd424a05a/public_url)
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://arinchase.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chase-faggard-0948a2114/)
+
