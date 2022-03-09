@@ -1,5 +1,5 @@
 ## 🚀 About Me
-I'm a software developer with a focus in front end development. I have a passion for web design and styling, networking & web security.
+I'm a software developer with a focus in Front-End development. I have a passion for web design and styling, networking & web security.
 
 
 ## 🛠 Skills
